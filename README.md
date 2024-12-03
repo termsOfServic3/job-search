@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<div class="grid grid-rows-2 p-2 mt-2 flex justify-between">
+<div class="grid grid-rows-2">
 <img src="https://github.com/user-attachments/assets/a16d2307-9057-49d5-b142-966748ab95de" class="p-2 size:50%">
 <img src="https://github.com/user-attachments/assets/1ecdcdfe-31ca-4957-8409-838c8eb3c221" class="p-2 size:50%">    
 <div>
